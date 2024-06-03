@@ -1,5 +1,5 @@
 # OBJECT_DETECTION_YOLOv3
-In the YOLO3_CUSTOM_DATASET notebook, I used YOLOv3 to detect cars in different car models. We obtained a good result and I will show you the result we obtained from there in the picture below.
+In the YOLO3_CUSTOM_DATASET notebook, I used YOLOv3 to detect cars in different car models. We obtained a good result and I will show you the result we obtained from there in the picture below..
 ![image](https://user-images.githubusercontent.com/100521892/222504169-0133a3be-3940-4e07-b86b-dc2fd5053093.png)
 
 
